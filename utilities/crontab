@@ -1,0 +1,3 @@
+00,30 09-23 * * * curl -i http://www.helene-et-marc.fr > /dev/null 2>&1
+15,45 09-23 * * * curl -i http://www.marccarre.net > /dev/null 2>&1
+
